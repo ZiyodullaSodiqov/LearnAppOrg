@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header_box , .section_box{
+    transform: translateY(15px);
+}
+.hdbox{
+    border-bottom: 1px solid gray !important;
+}
+li > a{
+    color: #000;
+    text-decoration: none;
+}
+li{
+    list-style: square;
+}
+.game_box{transform: translateY(100px);}
+
+.gmBox{
+    border-radius: 20px;
+    padding: 15px;
+    height: 200px;
+    margin: 10px 22px;
+    border: 2px solid #E3E3E3;
+}
+.one_footer{
+    width: 500px;
+    transform: translateY(140px) translateX(250px);     
+}
+
+footer{
+    transform: translateY(200px);
+    width: 100%;
+    height: 350px;
+    background-color: #000;
+}
+#Logo{
+    transform: translateY(80px) translateX(30px);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.ft >li >a {
+    color: #E3E3E3;
+    padding: 5px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.ft{
+    transform: translateY(50px);
+}
+.ft > li {
+    list-style: none;
+}
+.liTst{
+    list-style: decimal;
+}
+#test_section{
+    transform: translateY(100px);
+}
+.testDiv{
+    transform: translateX(300px) translateY(50px);
+    width: 700px !important;
+    height: 200px !important;
+    border-radius: 20px;
+    border: 2px solid green !important;
+}
+.testQuestions{
+    /* transform: translate(0px , 100px); */
+    width: 320px !important;
+    height: 150px !important;
+    border: 1px solid #000;
+    margin: 5px;
+}
+.testCnt{
+    position: absolute;
+    z-index: 999;
+    /* display: inline-block; */
+    transform: translateY(150px);
+}
+
+.slider {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    overflow-x: auto;
+  }
+  .slide {
+    width: 300px;
+    flex-shrink: 0;
+    height: 100%;
+  }
+
+  #panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
+/* Panel Two */
+
+#panelTwo, #flipTwo {
+    transform: translateY(300px);
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panelTwo {
+    padding: 50px;
+    display: none;
+  }
+  
+  #paneloTwo, #flipTwo {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panelTwo {
+    padding: 50px;
+    display: none;
+  }
