@@ -18,7 +18,7 @@ function sav(){
     var inp_eight = document.getElementById('btn-text8');
 
     if(inp_one.value == Stext1){
-        inp_one.style.backgroundColor = " #6ab04c";
+        inp_one.style.backgroundColor = "#6ab04c";
     }else{
         inp_one.style.backgroundColor = "#ff4d4d";
     }
