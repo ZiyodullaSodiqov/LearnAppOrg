@@ -2,15 +2,15 @@ const zone1 = document.querySelector('.zone-1');
 const zone2 = document.querySelector('.zone-2');
 
 const ufo1 = document.querySelector('#ufo1T');
-const ufo2 = document.querySelector('#ufo2T')
-const ufo4 = document.querySelector('#ufo4T')
-const ufo5 = document.querySelector('#ufo5T')
-const ufo6 = document.querySelector('#ufo6T')
-const ufo7 = document.querySelector('#ufo7T')
-const ufo8 = document.querySelector('#ufo8T')
-const ufo9 = document.querySelector('#ufo9T')
-const ufo10 = document.querySelector('#ufo10T')
-const ufo11 = document.querySelector('#ufo11T')
+const ufo2 = document.querySelector('#ufo2T');
+const ufo3 = document.querySelector('#ufo3T');
+const ufo4 = document.querySelector('#ufo4T');
+const ufo5 = document.querySelector('#ufo5T');
+const ufo6 = document.querySelector('#ufo6T');
+const ufo7 = document.querySelector('#ufo7T');
+const ufo8 = document.querySelector('#ufo8T');
+const ufo9 = document.querySelector('#ufo9T');
+
 
 zone1.ondragover = allowDrop;
 zone2.ondragover = allowDrop;
@@ -28,8 +28,6 @@ ufo6.ondragstart = drag;
 ufo7.ondragstart = drag;
 ufo8.ondragstart = drag;
 ufo9.ondragstart = drag;
-ufo10.ondragstart = drag;
-ufo11.ondragstart = drag;
 
 function drag(event) {
     event.dataTransfer.setData('id', event.target.id);

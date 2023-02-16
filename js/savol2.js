@@ -9,7 +9,7 @@ var Stext8 = "1350 azimut, janubi-sharqiy yo’nalish";
 
 function tek(){
     var inp_one = document.getElementById('TextM1');
-    var input_two = document.getElementById('asddf');
+    var input_two = document.getElementById('TextM2');
     var inp_three = document.getElementById('TextM3');
     var inp_four = document.getElementById('TextM4');
     var inp_five = document.getElementById('TextM5');
