@@ -1,0 +1,51 @@
+.place1{
+    width: 50px;
+    height: 50px;
+    transform: translate(810px, 180px);
+}
+.place1 > img{
+    width: 40px;
+    height: 40px;
+}
+#myDIV{
+    width: 100%;
+    height: 400px;
+    background-color: #FFC312;
+    display: none;
+}
+.AfrikaTextNmop{
+    width: 100%;
+    height: 60px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    border: 4px solid #A3CB38;
+    border-radius: 10px;
+    background-color: #009432;
+}.succesIN{
+    position: fixed;
+    display: flex;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #009432;
+}
+#btnAfrikatExt1 , #btnAfrikatExt2 , #btnAfrikatExt3 , #btnAfrikatExt4, #btnAfrikatExt5, #btnAfrikatExt6,#btnAfrikatExt7 , #btnAfrikatExt8 ,#btnAfrikatExt9 ,#btnAfrikatExt10 {
+    border: none;
+    outline: none;
+    background: none;
+} 
+.afrikaImages {
+    width: 36px;
+    height: 36px;
+}
+.valueAfrika{
+    width: 200px;
+    height: 50px;
+    margin: 5px;
+
+}
