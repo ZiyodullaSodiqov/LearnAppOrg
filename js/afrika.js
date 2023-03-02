@@ -56,6 +56,8 @@ var answerSevenOf ="Klimanjaro vulqoni";
     }else{
         document.getElementById('afrikaInputAnswer7').style.backgroundColor = "#ff4d4d";
     }
-    
+
     
  }
+
+//   Fazik
