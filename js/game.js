@@ -53,3 +53,4 @@ if (zone1.children.length == 1) {
 }   else {
     console.log('You lose');
 }
+console.log(zone1.children);

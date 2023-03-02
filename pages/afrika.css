@@ -46,42 +46,70 @@
     height: 80px;
     border-radius: 12px;
     border:2px solid #009432;
-    transform: translate(549px, 620px);
+    transform: translate(572px, 741px);
 }
 .divMapAfrika3 {
     width: 220px;
     height: 80px;
     border-radius: 12px;
     border:2px solid #009432;
-    transform: translate(943px, 654px);
+    transform: translate(789px, 686px);
 }
 .divMapAfrika4 {
     width: 220px;
     height: 80px;
     border-radius: 12px;
     border:2px solid #009432;
-    transform: translate(251px, 450px);
+    transform: translate(270px, 686px);
 }
 .divMapAfrika5 {
     width: 220px;
     height: 80px;
     border-radius: 12px;
     border:2px solid #009432;
-    transform: translate(380px, 592px);
+    transform: translate(1005px, 609px);
 }
 .divMapAfrika6 {
     width: 220px;
     height: 80px;
     border-radius: 12px;
     border:2px solid #009432;
-    transform: translate(765px, 749px);
+    transform: translate(400px, 707px);
 }
 .divMapAfrika7 {
     width: 220px;
     height: 80px;
     border-radius: 12px;
     border:2px solid #009432;
-    transform: translate(545px, 961px);
+    transform: translate(928px, 603px);
+}
+.divMapAfrika8 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(745px, 651px);
+}
+.divMapAfrika9 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(540px, 1220px)
+}
+.divMapAfrika10 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(745px, 651px);
+}
+.divMapAfrika11 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(745px, 651px);
 }
 .InpAfrika{
     width: 200px;
