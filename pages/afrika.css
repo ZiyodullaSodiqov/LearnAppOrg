@@ -34,18 +34,62 @@
     border-radius: 50%;
     background-color: #009432;
 }
-#btnAfrikatExt1 , #btnAfrikatExt2 , #btnAfrikatExt3 , #btnAfrikatExt4, #btnAfrikatExt5, #btnAfrikatExt6,#btnAfrikatExt7 , #btnAfrikatExt8 ,#btnAfrikatExt9 ,#btnAfrikatExt10 {
+.divMapAfrika1 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(711px, 755px);
+}
+.divMapAfrika2 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(549px, 620px);
+}
+.divMapAfrika3 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(943px, 654px);
+}
+.divMapAfrika4 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(251px, 450px);
+}
+.divMapAfrika5 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(380px, 592px);
+}
+.divMapAfrika6 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(765px, 749px);
+}
+.divMapAfrika7 {
+    width: 220px;
+    height: 80px;
+    border-radius: 12px;
+    border:2px solid #009432;
+    transform: translate(545px, 961px);
+}
+.InpAfrika{
+    width: 200px;
+    height: 40px;
+    border-radius: 8px;
     border: none;
     outline: none;
-    background: none;
-} 
-.afrikaImages {
-    width: 36px;
-    height: 36px;
-}
-.valueAfrika{
-    width: 200px;
-    height: 50px;
-    margin: 5px;
-
+    border: 2px solid #FFC312;
+    transform: translateY(-15px);
+    padding-left: 10px;
 }
